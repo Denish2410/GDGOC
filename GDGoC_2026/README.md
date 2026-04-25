@@ -48,6 +48,7 @@ A utility module that wraps AIF360 and pandas logic. Exposes these functions:
 ```bash
 git clone https://github.com/Denish2410/GDGOC
 cd GDGOC
+cd GDGoC_2026
 ```
 
 ### 2. Install dependencies
